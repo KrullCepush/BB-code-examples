@@ -1,0 +1,1 @@
+export { PaySystemListAccordion } from './PaySystemListAccordion';

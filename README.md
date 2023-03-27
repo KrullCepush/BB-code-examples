@@ -1,2 +1,2 @@
 # BB-code-examples
-small code samples taken from work
+Small code samples from the working project.

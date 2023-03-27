@@ -1,0 +1,1 @@
+export { GamblerMethodsTemplate } from './GamblerMethodsTemplate';

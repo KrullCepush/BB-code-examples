@@ -1,0 +1,1 @@
+export { PaySystemAccordionRender } from './PaySystemAccordionRender';

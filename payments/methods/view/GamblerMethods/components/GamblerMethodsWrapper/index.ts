@@ -1,0 +1,1 @@
+export { GamblerMethodsWrapper } from './GamblerMethodsWrapper';
